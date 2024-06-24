@@ -1,0 +1,47 @@
+.body{
+    min-height: 100vh;
+    margin: 0;
+    background: url(./img/background-img.jpeg);
+    background-size: cover;
+    background-position: center center;
+    color: rgb(255, 255, 255);
+    font-family: monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    max-width: 512px;
+    padding: 16px;
+    margin: 16px;
+    background-color: rgba(0,0,0,0.5);
+    border: solid blue solid;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}
+
+.img{
+    display: block;
+    border-radius: 50%;
+}
+.card__title, .card__subtitle, .card__text{
+    margin: 0;
+    text-align: center;
+}
+.card__subtitle{
+    font-size: 14px;
+}
+.list{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 16px;
+    list-style: none;
+}
+.link{
+    color: white;
+    font-size: 24px;
+}
