@@ -1,6 +1,6 @@
 # [David Santiago Rios Lara ](https://david21rios.github.io/Tarjeta_perfil/)
 
-[![David Santiago Rios Lara](./img/imagenWeb.jpg)](https://david21rios.github.io/Tarjeta_perfil/)
+[![David Santiago Rios Lara](./img/imagenWeb1.jpg)](https://david21rios.github.io/Tarjeta_perfil/)
 
 ## 📜 Resumen 📜
 👨‍💻 Ingeniero de Sistemas | Desarrollador Full Stack | Innovación Tecnológica 🚀
