@@ -1,12 +1,12 @@
 # [David Santiago Rios Lara ](https://david21rios.github.io/Tarjeta_perfil/)
 
-[![David Santiago Rios Lara](./img/imagenWeb1.jpg)](https://david21rios.github.io/Tarjeta_perfil/)
+[![David Santiago Rios Lara](./img/imagenWeb.jpg)](https://david21rios.github.io/Tarjeta_perfil/)
 
 ## 📜 Resumen 📜
 👨‍💻 Ingeniero de Sistemas | Desarrollador Full Stack | Innovación Tecnológica 🚀
 
 ## 💻 Instalación 💻
-- Ubicarse en la carpeta que contendrá el proyecto
+- Ubicarse dentro de la carpeta que contendrá el proyecto
 - Abrir terminal de comandos
   - git clone https://david21rios.github.io/Tarjeta_perfil/
   - cd Tarjeta_perfil
